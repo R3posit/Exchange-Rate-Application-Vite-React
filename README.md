@@ -5,15 +5,32 @@ Exchange Rate Application is a modern web app for tracking currency exchange rat
 ## Features
 
 - Real-time currency exchange rate updates
-- User-friendly and sleek interface
 - Conversion between various currency pairs
 
 ## Installation
 
 To get started with the project, follow these steps:
 
+!!! Firstly, you need a freecurrencyapi API key. And put them into "src\components\currency.jsx" file.
+
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
 ```
    
+2. **Navigate to the project directory:**
+   ```bash
+   cd exchange-rate-application
+```
+
+3. **Install the dependencies:**
+   ```bash
+   npm install
+```
+
+4. **Start the development server:**
+   ```bash
+    npm run dev
+```
+
+Your application will be available at http://localhost:3000
