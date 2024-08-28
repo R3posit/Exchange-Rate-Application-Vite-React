@@ -1,8 +1,19 @@
-# React + Vite
+# Exchange Rate Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Exchange Rate Application is a modern web app for tracking currency exchange rates in real-time. Built using Vite and React, this application offers a user-friendly interface for viewing and converting between various currency pairs.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time currency exchange rate updates
+- User-friendly and sleek interface
+- Conversion between various currency pairs
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+```
+   
